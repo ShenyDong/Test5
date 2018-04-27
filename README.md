@@ -4,7 +4,7 @@ creat on 2018/4/16
 
 界面
 
-![AAA(https://github.com/ShenyDong/Test5/blob/master/截图文件/界面.png)
+![AAA](https://github.com/ShenyDong/Test5/blob/master/截图文件/界面.png)
 
 复选框可选
 
