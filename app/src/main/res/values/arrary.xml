@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entryvalues_list_preference">
+    <item>Alpha opetion 01</item>
+        <item>Deta opetion 02</item>
+        <item>Charlie opetion 03</item>
+    </string-array>
+
+    <string-array name="entries_list_preference">
+        <item>Alpha opetion 01</item>
+        <item>Deta opetion 02</item>
+        <item>Charlie opetion 03</item>
+    </string-array>
+
+</resources>
